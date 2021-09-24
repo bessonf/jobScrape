@@ -1,0 +1,6 @@
+{
+  "mongoConfig": {
+    "serverUrl": "",
+    "database": ""
+  }
+}

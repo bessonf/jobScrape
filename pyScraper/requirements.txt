@@ -1,0 +1,3 @@
+dnspython
+pymongo
+linkedin_jobs_scraper
